@@ -1,2 +1,2 @@
 # python-neuroimaging
-### This repo isa collection of resources for my own reference.
+### This repo is a collection of resources for my own reference.
