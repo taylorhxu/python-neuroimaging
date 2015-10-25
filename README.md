@@ -1,14 +1,14 @@
-# python-neuroimaging
+#neuroimaging related 
 ### This repo is a collection of resources for my own reference.
 
-
-talyarkoni's blog, tag: neurosynth:
+### Neuroimaging
+- talyarkoni's blog, tag: neurosynth:
 [http://www.talyarkoni.org/blog/tag/neurosynth/](/http://www.talyarkoni.org/blog/tag/neurosynth/)
 
-Neurosynth: 
+- Neurosynth: 
 [http://neurosynth.org/code/](/http://neurosynth.org/code/)
 
-BIRN data: 
+- BIRN data: 
 [http://www.birncommunity.org/resources/data/](/http://www.birncommunity.org/resources/data/)
 
 ### fMRI
